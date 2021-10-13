@@ -1022,6 +1022,9 @@ h6 {
   .brands .list-brands li {
     padding: 0 30px;
   }
+  .brands .list-brands li:first-child {
+    padding: 0 30px;
+  }
 
   .shop {
     padding: 25px 0 0;
